@@ -10,7 +10,7 @@ const appDefaultConfig = {
         name: 'School Managment',
         args: 'env-cmd node ./.output/server/index.mjs',
         env: {
-          PORT: 2003
+          PORT: 3555
         }
       }
     ]
